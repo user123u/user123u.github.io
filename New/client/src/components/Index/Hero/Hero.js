@@ -26,12 +26,11 @@ const Section1 = () => {
         </div>
         <div className="col-12 col-lg-4 text-center text-lg-left my-lg-auto">
           <div className={classes.main}>
-            <h1 className={classes.animation}>Data Science Community SRM</h1>
+            <h1 className={classes.animation}>Developers Point</h1>
             <p>
-              We are a technology-driven Data Science-based student-led
-              innovation community at SRM IST. <br />
-              Our aim is to foster development and entrepreneurial skills among
-              students and work as a community that inspires thousands.
+            The Developers Point is a tech community run by student developers of National Institute of
+             Technology, Andhra Pradesh. The main characteristics that lay the foundation of what the 
+             Developers Point stands for are curiosity and a willingness to learn.
             </p>
           </div>
         </div>
