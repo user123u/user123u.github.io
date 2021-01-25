@@ -12,12 +12,11 @@ const Home_Section2 = () => {
             <span style={{ color: "#6F389F" }}>O</span>UR DOMAINS.
           </h1>
           <p>
-            All those who love brainfood, listen up, we serve a lot of that here
-            at our Data Science Community. From playing around with data to
-            creating automatic players for your games. From connecting homes to
-            connecting to the world. We got it all covered. Our members work
-            across multiple disciplines to deliver their solutions for the
-            world!
+          The community consists of passionate developers from
+          various streams with diverse skill sets (Android Dev,
+          Web Dev, Machine Learning Enthusiasts, Competitive coders,
+          Graphic Designers), the team collaboratively share ideas 
+          and work together to create a positive social impact.
           </p>
         </div>
         <div className="row mx-auto text-center">

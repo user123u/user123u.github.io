@@ -14,12 +14,11 @@ const Home_Section2 = () => {
             <span style={{ color: "#6F389F" }}>O</span>UR FOCUS.
           </h1>
           <p>
-            Here at Data Science Community , We make real-time projects, conduct
-            researches, organize meetups, host events, and workshops primarily
-            focusing on Data Science, Machine Learning, Al, Blockchain, IoT ,
-            Web Development and more. We guide and teach all those who aspire to
-            work in these fields and help them attain better skills and
-            knowledge.
+          The community actively conducts workshops, webinars,
+          networking sessions, and everything possible to manifest
+          our mission and vision. It also provides a platform for
+          folks to collaborate, share ideas, connect and develop their
+          knowledge in a peer-to-peer learning environment
           </p>
         </div>
         <div className="row mx-auto text-center">
